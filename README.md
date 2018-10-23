@@ -8,4 +8,3 @@
 
 [HW3](https://zinoopark.github.io/[hci]2016320271박진우hw3-1.docx)
 
-interviewfile[HW3](https://zinoopark.github.io/interview.m4a)
